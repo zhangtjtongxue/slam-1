@@ -6,3 +6,4 @@ Python simulation for running SLAM
 Proper Documentation to come.
 
 MatLab Code for FastSLAM 2.0 taken from Tim Bailey (http://www-personal.acfr.usyd.edu.au/tbailey/). Thanks!
+Victoria Park Data Set taken from http://www-personal.acfr.usyd.edu.au/nebot/victoria_park.htm. Thanks!
